@@ -1,4 +1,4 @@
-# Gasta Bien – Pantalla de bienvenida (Tarea 1.2)
+# Gasta Bien – Pantalla de bienvenida 
 
 Implementación en Flutter de la pantalla de bienvenida del boceto de la Tarea 1.1.
 
